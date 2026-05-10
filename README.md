@@ -4,11 +4,6 @@
 🌐 Live Demo:  
 https://rutuja1221.github.io/predictive-maintenance-iot/
 
-📦 GitHub Repository:  
-https://github.com/Rutuja1221/predictive-maintenance-iot
-
----
-
 ## Overview
 
 This project is a cloud-ready Industrial IoT platform designed for real-time machine monitoring, anomaly detection, and predictive maintenance. The system simulates industrial sensor data, processes telemetry using AWS cloud services, and visualizes machine health through an interactive React dashboard.
