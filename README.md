@@ -256,50 +256,6 @@ Live deployment:
 https://rutuja1221.github.io/predictive-maintenance-iot/
 ```
 
----
-
-## 👥 Team Task Split (4 Members, 6 Weeks)
-
-| Member | Responsibility |
-|--------|----------------|
-| Member 1 | AWS infrastructure, Terraform, IoT Core |
-| Member 2 | Lambda functions, API Gateway, DynamoDB |
-| Member 3 | Python simulator, anomaly detection |
-| Member 4 | React dashboard, deployment, charts |
-
----
-
-## 📅 Week-by-Week Plan
-
-### Week 1
-- AWS setup
-- Terraform deployment
-- DynamoDB tables
-
-### Week 2
-- Lambda IoT processing
-- Sensor publishing
-
-### Week 3
-- API Gateway integration
-- End-to-end data flow
-
-### Week 4
-- React dashboard integration
-- Real API connection
-
-### Week 5
-- Testing
-- Fault injection
-- Debugging
-
-### Week 6
-- Documentation
-- Presentation
-- Final demo
-
----
-
 ## 🎯 Demo Script (Viva)
 
 1. Run sensor simulator in terminal
