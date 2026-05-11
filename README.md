@@ -100,7 +100,7 @@ aws configure
 
 ---
 
-## Step 2 — Deploy AWS Infrastructure with Terraform (15 min)
+## Step 2 — Deploy AWS Infrastructure with Terraform
 
 ```bash
 # Install Terraform:
@@ -125,7 +125,7 @@ These values are required for frontend and IoT configuration.
 
 ---
 
-## Step 3 — Create IoT Device Certificate (10 min)
+## Step 3 — Create IoT Device Certificate
 
 In AWS Console:
 
@@ -176,7 +176,7 @@ IoT Policy JSON:
 
 ---
 
-## Step 4 — Configure Sensor Simulator (5 min)
+## Step 4 — Configure Sensor Simulator
 
 Edit:
 
@@ -212,7 +212,7 @@ python sensor_simulator.py --interval 5
 
 ---
 
-## Step 5 — Run the Dashboard Locally (5 min)
+## Step 5 — Run the Dashboard Locally
 
 ```bash
 cd frontend
